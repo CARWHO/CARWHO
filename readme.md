@@ -16,7 +16,7 @@ I’m an Electrical Engineering student at the University of Canterbury and the 
 
 ## Other Projects
 
-- **[KORA Education Platform](https://github.com/CARWHO/kora-web-app)** · Full-stack AI-powered study platform (LMS plugin and Webapp)  
+- **[KORA Education Platform](https://www.kahuhutton.com/work/kora)** · Full-stack AI-powered study platform (LMS plugin and Webapp)  
 - **[Personal Website](https://kahuhutton.com)** · Next.js site showcasing my work and blog  
 - **[Dawn Aerospace Feedline Characterization & Life-Cycle Testing](https://www.kahuhutton.com/work/dawn-aerospace)** · Feedline characterization and satellite electronics life-cycle testing at Dawn Aerospace   
 - **[HaloVision](https://www.kahuhutton.com/work/halo-vision)** · Helmet-mounted HUD for turn-by-turn navigation and indicator alerts  
