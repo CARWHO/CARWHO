@@ -12,9 +12,11 @@ I specialize in embedded systems programming and full-stack web development.
 
 ## 🚀 Featured Projects
 
-- **[FPGA RISC-V CPU](https://github.com/CARWHO/FPGA-RISCV-CPU)** · VHDL-based RISC-V processor implementation on FPGA  
-- **[Rocket Roll Visualiser](https://github.com/CARWHO/rocket-roll-visualiser)** · Control-system visualiser for rocket roll experiments  
-- **[FPGA Reaction Timer](https://github.com/CARWHO/FPGA-Reaction-Timer)** · Real-time reaction timer built with FPGA logic. 
+- **[FPGA RISC-V CPU](https://github.com/CARWHO/FPGA-RISCV-CPU)** · VHDL-based RISC-V processor implementation on FPGA (Entire Custom CPU + Programs)
+- **[Step Counter](https://github.com/CARWHO/Step-Counter)** · Step Counter developed on Nucleo board using IMU.
+- **[Halo Vision](https://github.com/CARWHO/Halo-Vision)** · Complete Product (2x Custom PCBS + accompanying softare, Mobile App, Full aerodynamic/ heat testing)
+- **[Rocket Roll Visualiser](https://github.com/CARWHO/rocket-roll-visualiser)** · Control-system visualiser for rocket roll experiments 
+- **[FPGA Reaction Timer](https://github.com/CARWHO/FPGA-Reaction-Timer)** · Real-time reaction timer designed for ARTY7 FPGA logic (ALUS, PRNG, FSMs and more!)
 
 ## Other Projects
 
