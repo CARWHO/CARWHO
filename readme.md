@@ -34,5 +34,3 @@ I’m an Electrical Engineering student at the University of Canterbury and the 
 - ✉️ Email: kahu@kora.ac  
 
 ---
-
-![Kahu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CARWHO&show_icons=true&theme=radical)
