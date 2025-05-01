@@ -4,7 +4,9 @@
 
 # Hi there, I’m Kahu 👋
 
-I’m an Electrical Engineering student at the University of Canterbury and the founder of [KORA](https://www.kora.ac/).
+I’m an Electrical Engineering student at the University of Canterbury and the founder of [KORA](https://www.kora.ac/). 
+
+I do embedded system programming and full-stack development. 
 
 ---
 
