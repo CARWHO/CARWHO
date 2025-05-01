@@ -12,18 +12,18 @@ I specialize in embedded systems programming and full-stack web development.
 
 ## 🚀 Featured Projects
 
-- **[FPGA RISC-V CPU](https://github.com/CARWHO/FPGA-RISCV-CPU)** · VHDL-based RISC-V processor implementation on FPGA (Entire Custom CPU + Programs)
-- **[Step Counter](https://github.com/CARWHO/Step-Counter)** · Step Counter developed on Nucleo board using IMU.
-- **[Halo Vision](https://github.com/CARWHO/Halo-Vision)** · Complete Product (2x Custom PCBS + accompanying softare, Mobile App, Full aerodynamic/ heat testing)
-- **[Rocket Roll Visualiser](https://github.com/CARWHO/rocket-roll-visualiser)** · Control-system visualiser for rocket roll experiments 
-- **[FPGA Reaction Timer](https://github.com/CARWHO/FPGA-Reaction-Timer)** · Real-time reaction timer designed for ARTY7 FPGA logic (ALUS, PRNG, FSMs and more!)
+- **[FPGA RISC-V CPU](https://github.com/CARWHO/FPGA-RISCV-CPU)** · Fully custom VHDL RISC-V CPU implementation with example programs  
+- **[Step Counter](https://github.com/CARWHO/Step-Counter)** · IMU-based step counter on STM32 Nucleo board  
+- **[Halo Vision](https://github.com/CARWHO/Halo-Vision)** · Helmet-mounted HUD with custom PCBs, mobile app, and aerodynamic/heat testing  
+- **[Rocket Roll Visualiser](https://github.com/CARWHO/rocket-roll-visualiser)** · Interactive control-system visualiser for rocket roll experiments  
+- **[FPGA Reaction Timer](https://github.com/CARWHO/FPGA-Reaction-Timer)** · Real-time reaction timer on ARTY7 FPGA using ALUs, PRNGs, and FSMs  
 
-## Other Projects
+## 🗂 Other Projects
 
-- **[KORA Education Platform](https://www.kahuhutton.com/work/kora)** · Full-stack AI-powered study platform (LMS plugin and Webapp), funded by Google Cloud.
-- **[Personal Website](https://kahuhutton.com)** · Next.js site showcasing my work and blog  
-- **[Dawn Aerospace Feedline Characterization & Life-Cycle Testing](https://www.kahuhutton.com/work/dawn-aerospace)** · Feedline characterization and satellite electronics life-cycle testing at Dawn Aerospace   
-- **[HaloVision](https://www.kahuhutton.com/work/halo-vision)** · Helmet-mounted HUD for turn-by-turn navigation and indicator alerts  
+- **[KORA Education Platform](https://www.kahuhutton.com/work/kora)** · AI-powered LMS plugin and web app, backed by Google Cloud  
+- **[Personal Website](https://kahuhutton.com)** · Next.js portfolio and blog  
+- **[Dawn Aerospace Testing](https://www.kahuhutton.com/work/dawn-aerospace)** · Feedline characterization and satellite electronics life-cycle testing  
+- **[HaloVision](https://www.kahuhutton.com/work/halo-vision)** · Helmet-mounted HUD for navigation and turn-indicator alerts   
 
 ## 🛠️ Skills & Tools
 
