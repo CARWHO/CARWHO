@@ -20,7 +20,7 @@ I specialize in embedded systems programming and full-stack web development.
 
 ## Other Projects
 
-- **[KORA Education Platform](https://www.kahuhutton.com/work/kora)** · Full-stack AI-powered study platform (LMS plugin and Webapp)  
+- **[KORA Education Platform](https://www.kahuhutton.com/work/kora)** · Full-stack AI-powered study platform (LMS plugin and Webapp), funded by Google Cloud.
 - **[Personal Website](https://kahuhutton.com)** · Next.js site showcasing my work and blog  
 - **[Dawn Aerospace Feedline Characterization & Life-Cycle Testing](https://www.kahuhutton.com/work/dawn-aerospace)** · Feedline characterization and satellite electronics life-cycle testing at Dawn Aerospace   
 - **[HaloVision](https://www.kahuhutton.com/work/halo-vision)** · Helmet-mounted HUD for turn-by-turn navigation and indicator alerts  
