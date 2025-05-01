@@ -6,7 +6,7 @@
 
 I’m an Electrical Engineering student at the University of Canterbury and the founder of [KORA](https://www.kora.ac/). 
 
-I do embedded system programming and full-stack development. 
+I specialize in embedded systems programming and full-stack web development.
 
 ---
 
