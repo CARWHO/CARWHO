@@ -5,6 +5,7 @@
 # Hi there, I’m Kahu 👋
 
 I’m an Electrical Engineering student at the University of Canterbury and the founder of [KORA](https://www.kora.ac/).  
+
 I specialize in embedded systems programming and full-stack web development.
 
 ---
