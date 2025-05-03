@@ -21,7 +21,6 @@ I specialize in embedded systems programming and full-stack web development.
 
 ## 🌐 Web & Full-Stack Projects
 
-- **[Rocket Roll Visualiser](https://github.com/CARWHO/rocket-roll-visualiser)** · Interactive control-system visualiser for rocket roll tests 
 - **[KORA Education Platform](https://www.kahuhutton.com/work/kora)** · AI-powered LMS plugin and web app (Google Cloud-backed)  
 - **[Personal Website](https://github.com/CARWHO/Personal-Site)** · Next.js portfolio and blog  
 
