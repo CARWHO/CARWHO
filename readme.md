@@ -12,7 +12,7 @@ I specialize in embedded systems programming and full-stack web development.
 
 ## 🚀 Embedded Systems Projects
 
-- **[FPGA RISC-V CPU](https://github.com/CARWHO/RISC-V-CPU)** · Fully custom VHDL RISC-V CPU with example programs
+- **[RISC-V CPU](https://github.com/CARWHO/KPU)** · Fully custom VHDL RISC-V CPU with example programs
 - **[FPGA Reaction Timer](https://github.com/CARWHO/FPGA-Reaction-Timer)** · Real-time reaction timer on ARTY7 FPGA using ALUs, PRNGs, and FSMs  
 - **[Step Counter](https://github.com/CARWHO/Step-Counter)** · IMU-based step counter on STM32 Nucleo board  
 - **[Halo Vision](https://github.com/CARWHO/Halo-Vision)** · Helmet-mounted HUD with custom PCBs and mobile app
