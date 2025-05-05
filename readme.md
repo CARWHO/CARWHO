@@ -38,10 +38,7 @@ I specialize in embedded systems programming and full-stack web development.
 
 ---
 
-## 🗂 Project Portfolio Highlights
-
-- **[Dawn Aerospace Testing](https://www.kahuhutton.com/work/dawn-aerospace)** · Feedline characterization & satellite electronics life-cycle tests  
-- **[HaloVision](https://www.kahuhutton.com/work/halo-vision)** · Helmet HUD for navigation and turn-indicator alerts
+Read about all these projects and more on [KahuHutton.com](https://www.kahuhutton.com/work)
 
 ---
 
