@@ -12,10 +12,10 @@ I specialize in embedded systems programming and full-stack web development.
 
 ## 🚀 Project Spotlight
 
-- **Halo Vision** – Open-source motorcycle HUD (software, hardware, CFD safety testing); **helped me secure an internship at Dawn Aerospace**
+- **Halo Vision** – Open-source motorcycle HUD (software, hardware, CFD safety testing); 
   https://github.com/CARWHO/Halo-Vision
 
-- **KPU: Open-source 32-bit RISC-V, FPGA CPU** – Fully custom VHDL CPU core using the RISC-V architecture, developed under Dr. Romain Arnal at the University of Canterbury  
+- **KPU: 32-bit RISC-V, FPGA CPU** – Fully custom VHDL CPU core using the RISC-V architecture, developed under Dr. Romain Arnal at the University of Canterbury  
   https://github.com/CARWHO/KPU
 
 ---
