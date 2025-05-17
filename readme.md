@@ -34,7 +34,7 @@ I specialize in embedded systems programming and full-stack web development.
 ## 🌐 Web & Full-Stack Projects
 
 - **[KORA Education Platform](https://www.kahuhutton.com/work/kora)** · AI-powered LMS plugin and web app (Google Cloud-backed)  
-- **[Personal Website](https://github.com/CARWHO/Personal-Site)** · Next.js portfolio and blog  
+- **[Personal Website](https://kahuhutton.com)** · Next.js portfolio and blog  
 
 ---
 
