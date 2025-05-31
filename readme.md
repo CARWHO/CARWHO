@@ -15,8 +15,7 @@ I specialize in embedded systems programming and full-stack web development.
 - **Halo Vision** – Open-source motorcycle HUD (software, hardware, CFD safety testing); 
   https://github.com/CARWHO/Halo-Vision
 
-- **KPU: 32-bit RISC-V, FPGA CPU** – Fully custom VHDL CPU core using the RISC-V architecture, developing under Dr. Romain Arnal at the University of Canterbury  
-  https://github.com/CARWHO/KPU
+- **KPU: 32-bit RISC-V FPGA CPU** – Branch of Skordal’s Potato CPU; currently extending the VHDL framework with custom DMA and UART interfaces and establishing a Vitis-based build flow (University of Canterbury, Dr. Romain Arnal). https://github.com/CARWHO/KPU
 
 ---
 
