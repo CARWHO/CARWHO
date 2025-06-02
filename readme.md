@@ -45,7 +45,7 @@ Read about all these projects and more on [KahuHutton.com](https://www.kahuhutto
 
 | Systems / Ops / DBA                              | Web / Programming                                                                                                                                                    |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Google Cloud Platform · CI/CD pipelines · NoSQL DBA · PostgreSQL DBA | C · C++ · C# · Python · Shell scripting · Java · JavaScript · Docker · React · Next.js · Node.js · PHP · MATLAB · SAS · SQL · SQL Server · Automated testing · Git · Supabase · GitHub Actions |
+| Google Cloud Platform · CI/CD pipelines · NoSQL DBA · PostgreSQL DBA | C · C++ · Python · Shell scripting · Java · JavaScript · Docker · React · Next.js · Node.js · PHP · MATLAB · SAS · SQL · SQL Server · Automated testing · Git · Supabase · GitHub Actions |
 
 ---
 
