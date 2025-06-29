@@ -2,4 +2,4 @@
   Profile README for CARWHO (Kahu Hutton)
 -->
 
-# Hi there, I’m Kahu 👋
+# Hi, I’m Kahu 👋
